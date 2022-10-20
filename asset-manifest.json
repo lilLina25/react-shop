@@ -1,14 +1,36 @@
 {
   "files": {
     "main.css": "/react-shop/static/css/main.7718c9a2.css",
-    "main.js": "/react-shop/static/js/main.11d52748.js",
+    "main.js": "/react-shop/static/js/main.43ef6936.js",
+    "static/media/nurse.jpg": "/react-shop/static/media/nurse.7de464ef96d21fc0b938.jpg",
     "static/media/background.jpg": "/react-shop/static/media/background.1cb716256535f9d383fa.jpg",
+    "static/media/dress2.jpg": "/react-shop/static/media/dress2.c3de195ac2453239327c.jpg",
+    "static/media/devil.jpg": "/react-shop/static/media/devil.88aad797134c6bf5bd1a.jpg",
+    "static/media/shirt2.jpg": "/react-shop/static/media/shirt2.c6b9854b6b4a06847db5.jpg",
+    "static/media/dress1.jpg": "/react-shop/static/media/dress1.56cd9b7dbf68943009f6.jpg",
+    "static/media/shirt3.jpg": "/react-shop/static/media/shirt3.aa350c89b39f1e2779e5.jpg",
+    "static/media/jacket1.jpg": "/react-shop/static/media/jacket1.36b40e662bec96a835c9.jpg",
+    "static/media/sweater4.jpg": "/react-shop/static/media/sweater4.98d940622d4a5a165847.jpg",
+    "static/media/shirt4.jpg": "/react-shop/static/media/shirt4.d71478a84c53fccc72f1.jpg",
+    "static/media/sweater1.jpeg": "/react-shop/static/media/sweater1.875bafec63f563e82722.jpeg",
+    "static/media/sweater3.jpg": "/react-shop/static/media/sweater3.72c6ed4d7e1f107244d3.jpg",
+    "static/media/shirt1.jpg": "/react-shop/static/media/shirt1.0ebb6d12fa2a7eda7c38.jpg",
+    "static/media/sweater5.jpg": "/react-shop/static/media/sweater5.ef66c84e206985a0ff9a.jpg",
+    "static/media/policeman.jpg": "/react-shop/static/media/policeman.bc854f2fd4aea90c699a.jpg",
+    "static/media/cat1.jpeg": "/react-shop/static/media/cat1.2a5ae1f065891334fd31.jpeg",
+    "static/media/sweater2.jpg": "/react-shop/static/media/sweater2.893f3784ef77b4482742.jpg",
+    "static/media/dress3.jpg": "/react-shop/static/media/dress3.194beb94a11ab2c9f0f0.jpg",
+    "static/media/sweater6.jpg": "/react-shop/static/media/sweater6.89e2a435a7feec72ad88.jpg",
+    "static/media/deer.jpg": "/react-shop/static/media/deer.e9ad99b87843a4fce299.jpg",
+    "static/media/pirate.jpeg": "/react-shop/static/media/pirate.6a9e164b12f05d19ff5a.jpeg",
+    "static/media/jacket2.jpg": "/react-shop/static/media/jacket2.e9736bdebd994744f69f.jpg",
+    "static/media/dragon.jpg": "/react-shop/static/media/dragon.63cb9e554b1224100a02.jpg",
     "index.html": "/react-shop/index.html",
     "main.7718c9a2.css.map": "/react-shop/static/css/main.7718c9a2.css.map",
-    "main.11d52748.js.map": "/react-shop/static/js/main.11d52748.js.map"
+    "main.43ef6936.js.map": "/react-shop/static/js/main.43ef6936.js.map"
   },
   "entrypoints": [
     "static/css/main.7718c9a2.css",
-    "static/js/main.11d52748.js"
+    "static/js/main.43ef6936.js"
   ]
 }
