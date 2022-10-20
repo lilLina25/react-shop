@@ -1,0 +1,317 @@
+@media (min-width: 1310px){
+.header__container {
+  height: 90px;
+}
+.header__logo {
+  font-size: 35px;
+  margin-left: 20px;
+ }
+ .header__shop-cart {
+  flex: 0 0 100px;
+  margin-left: 10px;
+ }
+ .header__shop-cart-button,
+ .header__shop-cart-button-active{
+  font-size: 40px;
+}
+.header__counter {
+  font-size: 15px;
+  height: 16px;
+  width: 16px;
+  padding: 0px 3px;
+}
+.header__presentation__container {
+    height: 500px;
+}
+.header__presentation__container::after{
+    font-size: 40px;
+    top: 15%;
+    left: 1%;
+    width: 100px;
+}
+.header__presentation__container::before{
+      font-size: 15px;
+      top: 75%;
+      left: 1%;
+      width: 200px;
+}
+}
+@media (max-width: 1309px) {
+  .header__container {
+  height: 90px;
+  }
+  .header__logo {
+  font-size: 35px;
+  margin-left: 20px;
+ }
+ .header__shop-cart {
+  flex: 0 0 100px;
+  margin-left: 10px;
+ }
+ .header__shop-cart-button,
+ .header__shop-cart-button-active{
+  font-size: 40px;
+}
+.header__counter {
+  font-size: 15px;
+  height: 16px;
+  width: 16px;
+  padding: 0px 3px;
+}
+.header__presentation__container {
+    height: 500px;
+}
+.header__presentation__container::after{
+    font-size: 40px;
+    top: 15%;
+    left: 1%;
+    width: 100px;
+}
+.header__presentation__container::before{
+      font-size: 15px;
+      top: 75%;
+      left: 1%;
+      width: 200px;
+}
+}
+@media (max-width: 1054px) {
+  .header__container {
+  height: 90px;
+}
+ .header__logo {
+  font-size: 30px;
+  margin-left: 3px;
+ }
+ .header__shop-cart {
+  flex: 0 0 50px;
+  margin-left: 3px;
+ }
+ .header__shop-cart-button,
+ .header__shop-cart-button-active{
+  font-size: 30px;
+}
+.header__counter {
+  font-size: 12px;
+  height: 14px;
+  width: 14px;
+  padding: 0px 3px;
+}
+.header__presentation__container {
+  height: 350px;
+}
+.header__presentation__container::after{
+    font-size: 23px;
+    top: 15%;
+    left: 1%;
+    width: 100px;
+}
+.header__presentation__container::before{
+      font-size: 13px;
+      top: 65%;
+      left: 1%;
+      width: 200px;
+}
+}
+@media (max-width: 815px) {
+  .header__container {
+  height: 50px;
+}
+  .header__logo {
+  font-size: 23px;
+  margin-left: 1px;
+ }
+ .header__shop-cart {
+  flex: 0 0 10px;
+  margin-left: 3px;
+ }
+ .header__shop-cart-button,
+ .header__shop-cart-button-active{
+  font-size: 25px;
+}
+.header__counter {
+  font-size: 12px;
+  height: 14px;
+  width: 14px;
+  padding: 0px 3px;
+}
+.header__presentation__container {
+  height: 270px
+}
+.header__presentation__container::after{
+    font-size: 20px;
+    top: 15%;
+    left: 1%;
+    width: 100px;
+}
+.header__presentation__container::before{
+      font-size: 10px;
+      top: 70%;
+      left: 1%;
+      width: 200px;
+}
+}
+
+@media (max-width: 625px) {
+.header__container {
+  height: 40px;
+}
+  .header__logo {
+  font-size: 15px;
+  margin-left: 1px;
+ }
+ .header__shop-cart {
+  flex: 0 0 5px;
+  margin-left: 3px;
+ }
+ .header__shop-cart-button,
+ .header__shop-cart-button-active{
+  font-size: 20px;
+}
+.header__counter {
+  font-size: 10px;
+  height: 12px;
+  width: 12px;
+  padding: 0px 3px;
+}
+.header__presentation__container {
+  height: 170px;
+}
+.header__presentation__container::after{
+    font-size: 15px;
+    top: 15%;
+    left: 1%;
+    width: 100px;
+}
+.header__presentation__container::before{
+      font-size: 8px;
+      top: 70%;
+      left: 1%;
+      width: 200px;
+}
+}
+@media (max-width: 495px) {
+  .header__container {
+  height: 40px;
+}
+  .header__logo {
+  font-size: 14px;
+  margin-left: 1px;
+ }
+ .header__shop-cart {
+  flex: 0 0 5px;
+  margin-left: 3px;
+ }
+ .header__shop-cart-button,
+ .header__shop-cart-button-active{
+  font-size: 20px;
+}
+.header__counter {
+  font-size: 10px;
+  height: 12px;
+  width: 12px;
+  padding: 0px 3px;
+}
+.header__presentation__container {
+  height: 170px
+}
+.header__presentation__container::after{
+    font-size: 15px;
+    top: 15%;
+    left: 1%;
+    width: 100px;
+}
+.header__presentation__container::before{
+      font-size: 8px;
+      top: 70%;
+      left: 1%;
+      width: 200px;
+}
+}
+@media (max-width: 410px) {
+  .header__container {
+  height: 30px;
+}
+  .header__logo {
+  font-size: 15px;
+  margin: 0;
+ }
+ .header__shop-cart {
+  flex: 0 0 5px;
+  margin-left: 3px;
+ }
+ .header__shop-cart-button,
+ .header__shop-cart-button-active{
+  font-size: 20px;
+}
+.header__counter {
+  font-size: 8px;
+  height: 10px;
+  width: 10px;
+  padding: 0px 2.5px;
+}
+.header__presentation__container {
+  height: 150px
+}
+.header__presentation__container::after{
+    font-size: 12px;
+    top: 15%;
+    left: 75%;
+    width: 50px;
+}
+.header__presentation__container::before{
+      font-size: 8px;
+      top: 75%;
+      left: 75%;
+      width: 70px;
+}
+}
+
+.header__container {
+  display: flex;
+  align-items: center;
+}
+.header__logo {
+  color: #34383E;
+  font-weight: 600;
+}
+.header__shop-cart {
+  display: flex;
+}
+.header__shop-cart-button{
+  transition: transform, color 300ms ease;
+}
+.header__shop-cart-button:hover{
+  color: #D9006C;
+  transform: scale(1.2);
+}
+.header__shop-cart-button-active{
+  color: #D9006C;
+  transform: scale(1.2);
+}
+.header__counter {
+  float: right;
+  font-family: 'Lato', sans-serif;
+  background-color: #D9006C;
+  border-radius: 50%;
+}
+.header__presentation__container {
+  display: flex;
+  background: url('../images/background.jpg') no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-blend-mode: multiply;
+  background-color: #C0C9D1;
+  position: relative;
+}
+.header__presentation__container::after{
+  content: 'Модная одежда для ваших питомцев';
+  font-weight: 600;
+  color: #FBFAFD;
+  position: absolute;
+}
+.header__presentation__container::before{
+  content: 'по доступной цене';
+  font-weight: 600;
+  color: #FBFAFD;
+  position: absolute;
+}

@@ -1,0 +1,41 @@
+@media (min-width: 1310px){
+.not-found-page {
+	font-size: 40px;
+}
+}
+@media (max-width: 1309px) {
+.not-found-page {
+	font-size: 40px;
+}
+}
+@media (max-width: 1054px) {
+.not-found-page {
+	font-size: 35px;
+}
+}
+@media (max-width: 815px) {
+.not-found-page {
+	font-size: 30px;
+}
+}
+@media (max-width: 625px) {
+.not-found-page {
+	font-size: 25px;
+}
+}
+@media (max-width: 495px) {
+.not-found-page {
+	font-size: 20px;
+}
+}
+@media (max-width: 410px) {
+.not-found-page {
+	font-size: 15px;
+}
+}
+
+.not-found-page{
+	color: #E90173;
+	font-weight: 600;
+	letter-spacing: 3px;
+}

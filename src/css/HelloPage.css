@@ -1,0 +1,47 @@
+@media (min-width: 1310px){
+.hello-page{
+	font-size: 40px;
+}
+}
+@media (max-width: 1309px) {
+.hello-page {
+	font-size: 35px;
+}
+}
+@media (max-width: 1054px) {
+.hello-page {
+	font-size: 30px;
+}
+}
+@media (max-width: 815px) {
+.hello-page {
+	font-size: 25px;
+}
+}
+@media (max-width: 625px) {
+.hello-page {
+	font-size: 20px;
+}
+}
+@media (max-width: 495px) {
+.hello-page {
+	font-size: 15px;
+}
+}
+@media (max-width: 410px) {
+.hello-page {
+	font-size: 10px;
+}
+}
+
+.hello-page {
+	color: #F4B3EB;
+	font-weight: 600;
+}
+.hello-page h2,
+.hello-page p {
+	margin-top: 5%;
+}
+.hello-page p {
+	line-height: 1.8;
+}

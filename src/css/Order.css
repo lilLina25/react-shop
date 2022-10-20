@@ -1,0 +1,193 @@
+@media (min-width: 1310px){
+.order{
+ height: 265px;
+}
+.order img {
+  width: 30%;
+  height: 250px;
+}
+.order h2 {
+  font-size: 23px;
+  left: -13%;
+  top: 1px;
+}
+.order b {
+  left: 33%;
+  top: -50px;
+  font-size: 25px;
+}
+.order_delete-icon {
+ font-size: 30px;
+  top: 8px;
+  right: 1%;
+}
+}
+@media (max-width: 1309px) {
+.order{
+height: 270px;
+}
+.order img {
+  width: 30%;
+  height: 250px;
+}
+.order h2 {
+  font-size: 23px;
+  left: -13%;
+  top: 1px;
+}
+.order b {
+  left: 33%;
+  top: -50px;
+  font-size: 25px;
+}
+.order_delete-icon {
+ font-size: 30px;
+  top: 8px;
+  right: 1%;
+}
+}
+@media (max-width: 1054px) {
+.order{
+  height: 260px;
+}
+.order img {
+  width: 30%;
+  height: 250px;
+}
+.order h2 {
+  font-size: 23px;
+  left: -13%;
+  top: 1px;
+}
+.order b {
+  left: 33%;
+  top: -50px;
+  font-size: 25px;
+}
+.order_delete-icon {
+ font-size: 30px;
+  top: 8px;
+  right: 1%;
+}
+}
+@media (max-width: 815px) {
+.order{
+   height: 150px;
+}
+.order img {
+  width: 20%;
+  height: 140px;
+}
+.order h2 {
+  font-size: 18px;
+  left: -20%;
+  top: 1px;
+}
+.order b {
+  left: 25%;
+  top: -30px;
+  font-size: 18px;
+}
+.order_delete-icon {
+ font-size: 25px;
+  top: 5px;
+  right: 2%;
+}
+}
+@media (max-width: 625px) {
+.order{
+   height: 115px;
+}
+.order img {
+  width: 20%;
+  height: 100px;
+}
+.order h2 {
+  font-size: 15px;
+  left: -20%;
+  top: 1px;
+}
+.order b {
+  left: 23%;
+  top: -25px;
+  font-size: 15px;
+}
+.order_delete-icon {
+ font-size: 23px;
+  top: 5px;
+  right: 2%;
+}
+}
+@media (max-width: 495px) {
+.order{
+  height: 90px;
+}
+.order img {
+  width: 20%;
+  height: 80px;
+}
+.order h2 {
+  font-size: 14px;
+  left: -20%;
+  top: 1px;
+}
+.order b {
+  left: 23%;
+  top: -25px;
+  font-size: 14px;
+}
+.order_delete-icon {
+ font-size: 23px;
+  top: 5px;
+  right: 2%;
+}
+}
+@media (max-width: 410px) {
+.order{
+  height: 80px;
+}
+.order img {
+  width: 20%;
+  height: 70px;
+}
+.order h2 {
+  font-size: 12px;
+  left: -20%;
+  top: 1px;
+}
+.order b {
+  left: 23%;
+  top: -25px;
+  font-size: 12px;
+}
+.order_delete-icon {
+ font-size: 20px;
+  top: 5px;
+  right: 2%;
+}
+}
+
+.order{
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.order h2 {
+  float: right;
+  width: 50%;
+  position: relative;
+  color: #22282F;
+}
+.order b {
+  position: relative;
+  color:#59B454;
+}
+.order_delete-icon {
+  float: right;
+  color: #FF0683;
+  position: relative;
+  transition: transform 300ms ease;
+}
+.order_delete-icon:hover {
+  transform: scale(1.3);
+}

@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,400;1,500&family=Peralta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+* {
+  margin:  0;
+  padding:  0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  background: #72787E;
+  color: #303841;
+  font-family: 'Peralta', cursive;
+}
+
+[class*="__container"] {
+  max-width: 1310px;
+  margin: 0px auto;
+  padding: 0px 15px;
+}
+[class*="__bg"] {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 9999;
+  overflow: auto;
+  border:  3px solid silver;
+}
+[class*="__white-bg"]{
+  background: white;
+  border-radius: 9px;
+  width: 60%;
+  margin: 5% auto;
+}
+[class*="__btn"] {
+  background-color: #3C4751;
+  color: #F9B3FB;
+  padding: 2%;
+  border-radius: 9px;
+  font-weight: 600;
+  font-style: italic;
+  margin: 2% 0;
+}
+
+@media (min-width: 1310px){
+  [class*="__container"] {
+  max-width: 1310px;
+}
+}
+@media (max-width: 1309px) {
+  [class*="__container"] {
+  max-width: 1050px;
+}
+}
+@media (max-width: 1054px) {
+  [class*="__container"] {
+  max-width: 970px;
+}
+}
+@media (max-width: 815px) {
+  [class*="__container"] {
+  max-width: 670px;
+}
+}
+@media (max-width: 625px) {
+  [class*="__container"] {
+  max-width: 540px;
+}
+}
+@media (max-width: 495px) {
+  [class*="__container"] {
+  max-width: 400px;
+}
+}
+@media (max-width: 410px) {
+  [class*="__container"] {
+  max-width: 350px;
+}
+}
